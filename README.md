@@ -8,6 +8,6 @@
 ## Methods:
  - PostASync
  
-##Misc:
+## Misc:
 - Commented throughout
 - Will be adding more methods
